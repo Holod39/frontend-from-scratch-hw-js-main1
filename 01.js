@@ -2,4 +2,9 @@
 // Результат присвойте переменной sum
 
 // your code
-let sum
+let sum = 0;
+
+for ( let i = 0; i <= 20; i++) {
+    sum += i
+}
+document. write(sum);
