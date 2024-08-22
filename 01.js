@@ -3,8 +3,8 @@
 
 // your code
 let sum = 0;
-
-for ( let i = 0; i <= 20; i++) {
-    sum += i
+while(let> 20){
+    +sum
 }
-document. write(sum);
+
+
