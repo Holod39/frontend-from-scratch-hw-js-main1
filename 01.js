@@ -11,3 +11,4 @@ while (
 }
 
 
+console.log(sum);
